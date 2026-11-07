@@ -35,7 +35,7 @@
     <div class="container px-4 px-lg-6">
         <!-- Heading Row-->
         <div class="row gx-4 gx-lg-6 align-items-center my-5 justify-content-center">
-            <div class="col-lg-6"><img class="img-fluid rounded mb-4 mb-lg-0" src="assets/logo.png"
+            <div class="col-lg-5"><img class="img-fluid rounded mb-4 mb-lg-0" src="assets/logo.png"
                     alt="Logo de Volovanes" /></div>
         </div>
     </div>
